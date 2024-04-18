@@ -1,7 +1,3 @@
-# -*- coding: utf-8 -*-
-# @Author  : Dengxun
-# @Time    : 2023/3/23 19:43
-# @Function:Model_Minst
 
 import torchvision
 from torch.utils.data import DataLoader
